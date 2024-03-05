@@ -1,4 +1,3 @@
-### GitHub README for Product Inventory Dashboard with React and Firebase
 
 # Product Inventory Dashboard
 
